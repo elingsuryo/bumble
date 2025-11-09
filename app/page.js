@@ -205,8 +205,7 @@ export default function Home() {
         {/* FOOTER */}
         <footer className="mt-16 border-t border-rose-200/60 pt-6 text-xs text-gray-500">
           <p>
-            © {new Date().getFullYear()} Bumble-like — built with ❤️ using
-            Next.js & Tailwind CSS.
+            © {new Date().getFullYear()} Bumble
           </p>
         </footer>
       </section>
